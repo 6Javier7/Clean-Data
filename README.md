@@ -1,4 +1,4 @@
-In the file name Code.R is the scrip of the assigment 
+In the file name Run_analysis.R is the scrip of the assigment 
 
 at the first 10 lines, i load the data
 
