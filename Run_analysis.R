@@ -8,9 +8,9 @@ al <- fread("./R/Cleaning/activity_labels.txt") #Activities labels
 ts <- fread("./R/Cleaning/test/subject_test.txt") #test activities subset by subject
 tx <- fread("./R/Cleaning/test/X_test.txt") #test results subset
 ty <- fread("./R/Cleaning/test/Y_test.txt") #test subjects subset
-trs <- fread("./Cleaning/train/subject_train.txt") #test activities subset by subject
+trs <- fread("./R/Cleaning/train/subject_train.txt") #test activities subset by subject
 trx <- fread("./R/Cleaning/train/X_train.txt") #test results subset
-try <- fread("./Cleaning/train/Y_train.txt") #test subjects subset
+try <- fread("./R/Cleaning/train/Y_train.txt") #test subjects subset
 
 
 #Processing
